@@ -1,0 +1,12 @@
+{
+  "name": "udezue-oluomachi-chimaobi-api",
+  "version": "1.0.0",
+  "description": "This is an api about myself and it is written by me personally",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "udezue oluomachi chimaobi",
+  "license": "ISC"
+}

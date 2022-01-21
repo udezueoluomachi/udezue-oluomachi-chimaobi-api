@@ -1,0 +1,58 @@
+{
+    "name" : {
+        "firstName" : "Udezue",
+        "lastName" : "Chimaobi",
+        "middleName" : "Oluomachi",
+        "fullName" : "Udezue Oluomachi Chimaobi"
+    },
+    "age" : {
+        "birthYear" : 2004,
+        "birthMonth" : "may",
+        "birthDay" : 12
+    },
+    "geoData" : {
+        "nationality" : "Nigeria",
+        "stateOfOrigin" : "Anambra",
+        "LGA" : "Nnewi-south",
+        "town" : "Ukpor",
+        "homeLand" : "Uboma"
+    },
+    "immediateFamily" : {
+        "father" : {
+            "firstName" : "Udezue",
+            "lastName" : "Basil"
+        },
+        "mother" : {
+            "firstName" : "Udezue",
+            "lastName" : "Jane"
+        },
+        "sibblings" : 4
+    },
+    "skills" : {
+        "webdevelopment" : {
+            "a" : "HTML",
+            "b" : "CSS",
+            "c" : "Javascript",
+            "d" : "Jquery",
+            "e" : "Nodejs",
+            "f" : "SQL/MYSQL"
+        },
+        "graphics" : {
+            "a" : "Corel Draw",
+            "b" : "Photoshop"
+        }
+    },
+    "education" : "WAEC certified",
+    "contactInfo" : {
+        "facebook" : "https://www.facebook.com/udezueoluomachi.chimaobi",
+        "instagram" : "@basilchimaobi2004",
+        "youtube" : "Basil Chimaobi",
+        "github" : "https://www.github.com/udezueoluomachi"
+    },
+    "relationship" : "Single",
+    "occupation" : "Programmer , Investor , Crypto Trader",
+    "company" : "Omac",
+    "networth" : {
+        "at2022January" : "$25"
+    }
+}
