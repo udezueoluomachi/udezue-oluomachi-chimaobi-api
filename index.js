@@ -12,9 +12,9 @@ app.createServer( (req, res) => {
       "Access-Control-Request-Headers": "Content-Type"
     });
 
-    fs.readFileSync("./data.json" ,"utf8", (err, data) => {
+    fs.readFile("./data.json", (err, data) => {
         if(err) throw err;
-        res.write(JSON.stringify(data))
+        res.write(data)
         res.end()
     })
 })
