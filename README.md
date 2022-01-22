@@ -5,6 +5,9 @@ This project is was built to provide a legit information about me.
 * NODEjs
 * JSON
 
+# live preview
+* [view](https://udezue-oluomachi-chimaobi-api.herokuapp.com/)
+
 # Author
 * Udezue Oluomachi Chimaobi
 
