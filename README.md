@@ -1,5 +1,5 @@
 # About project
-This project is was built to provide a legit information about me.
+This project was built to provide a legit information about me.
 
 # Technologies used
 * NODEjs
